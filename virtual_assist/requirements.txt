@@ -1,0 +1,6 @@
+#Required Dependencies
+
+SpeechRecognition
+pyttsx3
+requests
+spacy
